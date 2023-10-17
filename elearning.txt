@@ -1,0 +1,156 @@
+Header 
+---------------------------------------------------------
+Elearn
+
+- Home
+- Features
+- About
+- Courses
+- Contact
+
+Sign Up
+
+Home
+---------------------------------------------------------
+
+Take Your Skills to the Next Level
+
+Welcome to a world of limitless knowledge and boundless possibilities. We believe that education knows no boundaries. Whether you're a student, professional, or a curious soul, our platform is your gateway to excellence.
+
+Search  for courses
+
+Logo
+---------------------------------------------------------
+
+- Google Logo 
+- Facebook Logo 
+- Airbnb Logo 
+- Microsoft Logo
+
+Features
+---------------------------------------------------------
+Our Special Features
+
+Our e-learning platform is designed to provide you with an
+exceptional and immersive learning journey
+
+- Expert Instructors
+Learn from industry experts and experienced educators 
+who are passionate about sharing their knowledge and expertise
+
+- Flexible Learning
+Tailor your learning experience to your schedule. Study at your
+own pace, anytime, anywhere, on any device
+
+- Progress Tracking
+Keep an eye on your progress with comprehensive tracking tools. 
+Monitor your achievements and set new goals with ease
+
+About
+---------------------------------------------------------
+About Us
+Welcome to our Learning Center
+
+We are driven by a passion for knowledge and a commitment to empower learners of all backgrounds. Founded with a vision to make quality education accessible to everyone, we have been on an incredible journey of transforming traditional learning into an immersive and dynamic online experience.
+
+Know More
+
+
+Categories
+---------------------------------------------------------
+Our Popular Categories
+Dive into a world of learning possibilities by exploring our popular course categories
+
+Design
+100+ courses
+
+Web Development
+300+ courses
+
+Marketing
+250+ courses
+
+Photography
+150+ courses
+
+Courses
+---------------------------------------------------------
+Most Popular Courses
+Explore our selection of popular courses that have captivated 
+learners and sparked their curiosity
+
+Web Mastery: Design, Build, and Launch Your Sites
+500k+ 4.9 $200
+
+Artificial Intelligence Essentials in Python
+220k+ 4.9 $150
+
+Designing for Impact: The Ultimate UX/UI Bootcamp
+170k+ 4.9 $130
+
+Explore All Courses
+
+
+Testimonials
+---------------------------------------------------------
+What Our Learners Say About Us
+Don't just take our word for it. Hear from our satisfied learners who have embarked on their educational journeys with us
+
+I can't believe how much I've learned. The courses are engaging,
+the instructors are top-notch, and the flexibility to study at my own pace is a game-changer. Thank you for making quality education accessible to all!
+
+Nia Alemane
+UX/UI Designer at Airbnb
+
+Elearn has become my go-to resource for staying updated in my field. The courses are up-to-date, the content is relevant, and the convenience of online learning fits
+perfectly into my busy schedule
+
+John Smith
+Web Developer at Google
+
+The community support, interactive lessons, and practical insights exceeded my expectations. It's not just about acquiring knowledge; it's about personal
+growth and development. Highly recommended
+
+Patrick Davis
+App developer at Facebook
+
+Contact
+---------------------------------------------------------
+Get in Touch
+
+Have questions, feedback, or need assistance?
+We're here to listen and assist you
+
+Contact Us
+
+Footer
+---------------------------------------------------------
+Elearn
+Top instructor from around the world teach millions of students.
+
+Menu
+- Home
+- Courses
+- About
+- Testimonials
+
+Careers
+- Instructor
+- Career paths
+- Business
+- Roadmap
+
+Resources
+- Blog
+- Videos
+- Forums
+- Docs
+
+Company
+- About
+- Affiliates
+- Support
+- Terms
+- Privacy Policy
+
+Copyright © 2023. Designed By Luís
